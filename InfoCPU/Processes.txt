@@ -1,0 +1,103 @@
+[System Process]  ID: 0 Время работы: 27мин. 16сек.
+System  ID: 4 Время работы: 27мин. 16сек.
+smss.exe  ID: 336 Время работы: 27мин. 16сек.
+csrss.exe  ID: 492 Время работы: 27мин. 16сек.
+wininit.exe  ID: 556 Время работы: 27мин. 16сек.
+services.exe  ID: 652 Время работы: 27мин. 16сек.
+lsass.exe  ID: 660 Время работы: 27мин. 16сек.
+svchost.exe  ID: 744 Время работы: 27мин. 16сек.
+svchost.exe  ID: 788 Время работы: 27мин. 16сек.
+NVDisplay.Container.exe  ID: 860 Время работы: 27мин. 16сек.
+svchost.exe  ID: 936 Время работы: 27мин. 16сек.
+svchost.exe  ID: 968 Время работы: 27мин. 16сек.
+svchost.exe  ID: 1020 Время работы: 27мин. 16сек.
+svchost.exe  ID: 404 Время работы: 27мин. 16сек.
+svchost.exe  ID: 1100 Время работы: 27мин. 16сек.
+spoolsv.exe  ID: 1264 Время работы: 27мин. 16сек.
+svchost.exe  ID: 1300 Время работы: 27мин. 16сек.
+IpOverUsbSvc.exe  ID: 1452 Время работы: 27мин. 16сек.
+nvcontainer.exe  ID: 1516 Время работы: 27мин. 16сек.
+MsMpEng.exe  ID: 1628 Время работы: 27мин. 16сек.
+svchost.exe  ID: 2532 Время работы: 27мин. 16сек.
+svchost.exe  ID: 2644 Время работы: 27мин. 16сек.
+WUDFHost.exe  ID: 2652 Время работы: 27мин. 16сек.
+dasHost.exe  ID: 2812 Время работы: 27мин. 16сек.
+SearchIndexer.exe  ID: 3612 Время работы: 27мин. 16сек.
+GoogleCrashHandler.exe  ID: 4020 Время работы: 27мин. 16сек.
+GoogleCrashHandler64.exe  ID: 4028 Время работы: 27мин. 16сек.
+dllhost.exe  ID: 4444 Время работы: 27мин. 16сек.
+wmpnetwk.exe  ID: 4896 Время работы: 27мин. 16сек.
+taskhost.exe  ID: 708 Время работы: 27мин. 16сек.
+OSPPSVC.EXE  ID: 5672 Время работы: 27мин. 16сек.
+svchost.exe  ID: 11616 Время работы: 27мин. 16сек.
+csrss.exe  ID: 3668 Время работы: 27мин. 16сек.
+winlogon.exe  ID: 12704 Время работы: 27мин. 16сек.
+dwm.exe  ID: 12944 Время работы: 27мин. 16сек.
+NVDisplay.Container.exe  ID: 376 Время работы: 27мин. 16сек.
+taskhostex.exe  ID: 11336 Время работы: 2ч. 7мин. 12сек.
+nvcontainer.exe  ID: 12800 Время работы: 2ч. 7мин. 12сек.
+explorer.exe  ID: 4432 Время работы: 2ч. 7мин. 12сек.
+SkyDrive.exe  ID: 11552 Время работы: 2ч. 7мин. 11сек.
+NVIDIA Web Helper.exe  ID: 11328 Время работы: 2ч. 7мин. 10сек.
+conhost.exe  ID: 4392 Время работы: 2ч. 7мин. 10сек.
+Steam.exe  ID: 12276 Время работы: 2ч. 7мин. 1сек.
+Lightshot.exe  ID: 8688 Время работы: 2ч. 7мин. 1сек.
+steamwebhelper.exe  ID: 3620 Время работы: 2ч. 6мин. 57сек.
+steamwebhelper.exe  ID: 4800 Время работы: 2ч. 6мин. 57сек.
+SteamService.exe  ID: 13272 Время работы: 2ч. 6мин. 57сек.
+steamwebhelper.exe  ID: 4724 Время работы: 2ч. 6мин. 50сек.
+steamwebhelper.exe  ID: 2972 Время работы: 2ч. 6мин. 50сек.
+steamwebhelper.exe  ID: 13496 Время работы: 2ч. 6мин. 48сек.
+glcnd.exe  ID: 14236 Время работы: 2ч. 6мин. 46сек.
+RuntimeBroker.exe  ID: 11788 Время работы: 2ч. 6мин. 45сек.
+chrome.exe  ID: 3320 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 1932 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 11316 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 9144 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 2208 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 9488 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 7740 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 13472 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 6304 Время работы: 2ч. 6мин. 38сек.
+chrome.exe  ID: 9540 Время работы: 2ч. 6мин. 8сек.
+SettingSyncHost.exe  ID: 5044 Время работы: 2ч. 4мин. 11сек.
+chrome.exe  ID: 5896 Время работы: 2ч. 2мин. 37сек.
+chrome.exe  ID: 11340 Время работы: 34мин. 55сек.
+chrome.exe  ID: 5300 Время работы: 34мин. 12сек.
+chrome.exe  ID: 13036 Время работы: 33мин. 22сек.
+SearchProtocolHost.exe  ID: 10744 Время работы: 33мин. 22сек.
+TOTALCMD64.EXE  ID: 6532 Время работы: 27мин. 3сек.
+chrome.exe  ID: 11892 Время работы: 24мин. 44сек.
+mspdbsrv.exe  ID: 11824 Время работы: 20мин. 39сек.
+devenv.exe  ID: 7204 Время работы: 13мин. 58сек.
+PerfWatson2.exe  ID: 10768 Время работы: 13мин. 57сек.
+VcxprojReader.exe  ID: 9000 Время работы: 13мин. 57сек.
+conhost.exe  ID: 8628 Время работы: 13мин. 57сек.
+Microsoft.ServiceHub.Controller.exe  ID: 14268 Время работы: 13мин. 54сек.
+conhost.exe  ID: 9576 Время работы: 13мин. 54сек.
+ServiceHub.IdentityHost.exe  ID: 8972 Время работы: 13мин. 54сек.
+conhost.exe  ID: 5164 Время работы: 13мин. 54сек.
+ServiceHub.VSDetouredHost.exe  ID: 9848 Время работы: 13мин. 54сек.
+conhost.exe  ID: 12492 Время работы: 13мин. 54сек.
+ServiceHub.Host.CLR.x86.exe  ID: 11832 Время работы: 13мин. 49сек.
+conhost.exe  ID: 8608 Время работы: 13мин. 49сек.
+ServiceHub.SettingsHost.exe  ID: 8832 Время работы: 13мин. 47сек.
+conhost.exe  ID: 2384 Время работы: 13мин. 47сек.
+vcpkgsrv.exe  ID: 10132 Время работы: 12мин. 55сек.
+dllhost.exe  ID: 14264 Время работы: 12мин. 21сек.
+ServiceHub.DataWarehouseHost.exe  ID: 8780 Время работы: 10мин. 8сек.
+conhost.exe  ID: 10756 Время работы: 10мин. 8сек.
+StandardCollector.Service.exe  ID: 5212 Время работы: 10мин. 8сек.
+ServiceHub.Host.CLR.x86.exe  ID: 1260 Время работы: 10мин. 6сек.
+conhost.exe  ID: 13108 Время работы: 10мин. 6сек.
+ServiceHub.ThreadedWaitDialog.exe  ID: 4936 Время работы: 10мин. 5сек.
+conhost.exe  ID: 5668 Время работы: 10мин. 5сек.
+ServiceHub.TestWindowStoreHost.exe  ID: 8136 Время работы: 10мин. 4сек.
+conhost.exe  ID: 8300 Время работы: 10мин. 4сек.
+MSBuild.exe  ID: 11168 Время работы: 3мин. 34сек.
+conhost.exe  ID: 11372 Время работы: 3мин. 34сек.
+SearchFilterHost.exe  ID: 5820 Время работы: 3мин. 34сек.
+InfoCPU.exe  ID: 10640 Время работы: 28сек.
+msvsmon.exe  ID: 8616 Время работы: 28сек.
+ScriptedSandbox64.exe  ID: 10552 Время работы: 28сек.
+
